@@ -1,0 +1,1 @@
+Instacart Market Basket Analysis leveraging A-Priori, FP-Growth, and ECLAT algorithms for common association rules. Part of ISYE 7406 for GaTech. Project numbers: Son Tran, Nildip Chaudhury, Mehul Dodia
